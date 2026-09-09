@@ -73,22 +73,22 @@ Publications
 
 <span id="publications"></span>
 
-\* indicates equal contribution. Full citation information is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+Full citation information is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 **2025**
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br />
-   **Junteng Liu***, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
+   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
    *arXiv*, 2025. **(First author)**
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**<br />
-   **Junteng Liu***, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br />
+   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br />
    *arXiv*, 2025. **(First author)** Code: Vision4Chart
 
 **2024**
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**<br />
-   **Junteng Liu***, Shiqi Chen, Yu Cheng, Junxian He<br />
+   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He<br />
    *EMNLP*, 2024. **(First author)** Code: Universal_Truthfulness_Hyperplane
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**<br />
